@@ -33,7 +33,7 @@ var mainView = myApp.addView('.view-main', {
 var welcomescreen_slides = [
     {
         id: 'slide1',
-        picture: '<img src="../images/vira-welcome.png" style="height: 80%;">',
+        picture: '<img src="images/vira-welcome.png" style="height: 80%;">',
         text: '<a id="tutorial-close-btn" class="button button-round active" href="#">ورود به برنامه</a>'
     }
 ];
