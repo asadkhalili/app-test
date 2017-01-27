@@ -43,8 +43,7 @@ $$(document).on('deviceready', function () {
     var welcomeOptions = {
         'bgcolor': '#1a237e',
         'fontcolor': '#fff',
-        'closeButton' : true,
-        'closeButtonText' : 'ورود',
+        'closeButton' : false,
         'pagination': false,
         'onClosed': function () {
             $$('.views').show();
