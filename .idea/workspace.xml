@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4407fc9-6415-4a4b-ab67-b7e387e4b5ff" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/images/pic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/images/pic2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/img/logo.png" afterPath="$PROJECT_DIR$/platforms/browser/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/vira-welcome.png" afterPath="$PROJECT_DIR$/www/images/vira-welcome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/android/icon-36-ldpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/android/icon-48-mdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/android/icon-72-hdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/android/icon-96-xhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/bada-wac/icon-48-type5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/bada-wac/icon-50-type3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/bada-wac/icon-80-type4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/bada/icon-128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/blackberry/icon-80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/blackberry10/icon-80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/ios/icon-57-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/ios/icon-57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/ios/icon-72-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/ios/icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/tizen/icon-128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/webos/icon-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/windows-phone/icon-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/images/pic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/images/pic2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/images/vira-welcome.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/my-app.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/my-app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/my-app.js" afterPath="$PROJECT_DIR$/www/js/my-app.js" />
     </list>
     <ignored path="app-test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,10 +46,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="my-app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my-app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/my-app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="187">
               <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
               <folding>
                 <marker date="1485538210983" expanded="true" signature="889:901" placeholder="..." />
@@ -43,6 +58,26 @@
                 <marker date="1485538210983" expanded="true" signature="17368:17379" placeholder="..." />
                 <marker date="1485538210983" expanded="true" signature="17734:17745" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/config.xml.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,8 +100,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/www/js/my-app.js" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
@@ -227,12 +262,12 @@
       <option name="presentableId" value="Default" />
       <updated>1485448726510</updated>
       <workItem from="1485448727860" duration="1873000" />
-      <workItem from="1485527818231" duration="1680000" />
+      <workItem from="1485527818231" duration="2463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3553000" />
+    <option name="totallyTimeSpent" value="4336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -281,14 +316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -299,7 +326,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/my-app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="187">
           <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
           <folding>
             <marker date="1485538210983" expanded="true" signature="889:901" placeholder="..." />
@@ -308,6 +335,22 @@
             <marker date="1485538210983" expanded="true" signature="17368:17379" placeholder="..." />
             <marker date="1485538210983" expanded="true" signature="17734:17745" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/config.xml.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
